@@ -1,5 +1,5 @@
 # NGDataStorage
-一个类似于Android上SharedPreference的.Net数据存储方案
+一个类似于Android上SharedPreference的.Net数据存储方案，简单到不能再简单，但由于.Net自带的Settings无法很好的满足使用需求，所以特意造了这个轮子。
 
 ### 使用方法
 将Release中的dll引用进项目中，把Example.xml放在需要存储数据的地方，然后在需要使用的地方using NGDataStorage即可。
