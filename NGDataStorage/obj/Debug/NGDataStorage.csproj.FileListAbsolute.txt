@@ -1,0 +1,6 @@
+E:\Projects\DigitalYear Toolbox\NGDataStorage\bin\Debug\NGDataStorage.dll
+E:\Projects\DigitalYear Toolbox\NGDataStorage\bin\Debug\NGDataStorage.pdb
+E:\Projects\DigitalYear Toolbox\NGDataStorage\obj\Debug\NGDataStorage.csprojAssemblyReference.cache
+E:\Projects\DigitalYear Toolbox\NGDataStorage\obj\Debug\NGDataStorage.csproj.CoreCompileInputs.cache
+E:\Projects\DigitalYear Toolbox\NGDataStorage\obj\Debug\NGDataStorage.dll
+E:\Projects\DigitalYear Toolbox\NGDataStorage\obj\Debug\NGDataStorage.pdb
