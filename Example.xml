@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Atlas>
+  <int name="Theme" value="0" />
+  <boolean name="NightMode" value="NO" />
+  <boolean name="AnniversaryTime" value="YES" />
+  <string name="PrimaryColor" value="#FF2976CC" />
+  <string name="AccentColor" value="#FF2065B2" />
+</Atlas>
